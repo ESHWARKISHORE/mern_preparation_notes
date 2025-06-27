@@ -24,4 +24,23 @@ This repo contains notes and code samples prepared for MERN Stack development an
 
 ---
 
+
+## 📅 Day 1 – 27 June 2025 Friday
+
+### ✅ React + Redux Toolkit
+- Created `userAPI.js` with `createAsyncThunk` to fetch users from JSONPlaceholder
+- Added `userFromAPISlice.js` to handle API data with `extraReducers`
+- Integrated API flow with `ReusableTable.jsx` to display fetched users dynamically
+- Verified loading, fulfilled, rejected states handled correctly
+
+### ✅ DSA Progress
+- Solved DSA Problem #13: LeetCode 121 – Find Maximum Profit from Stock
+- Committed to `/DSA` folder with proper problem number and tested output
+
+### ✅ Notes
+- Documented the purpose of `createAsyncThunk` and `extraReducers` usage under `react-redux/Day1`
+- Clarified difference between `reducers` vs `extraReducers` for async flows
+
+---
+
 More updates will follow daily as I continue through the 30-day MERN + DSA prep journey.
