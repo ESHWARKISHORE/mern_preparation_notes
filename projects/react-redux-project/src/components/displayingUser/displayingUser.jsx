@@ -1,12 +1,22 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
 import ReusableTable from '../common/reusableTable'
+import { useDispatch } from 'react-redux'
+import { clearUser, deleteUser } from '../../feature/user/userSlice'
 
 const DisplayingUser = () => {
+    const dispatch = useDispatch()
     const user = useSelector((state)=> state.user.users)
+    const handleDeleteButton = (data) => {
+        dispatch(deleteUser(data.email))
+    }
+    const handleClearUser =()=>{
+        dispatch(clearUser());
+    }
   return (
     <div><h3>Displaying The User</h3>
-    <ReusableTable tableData={user}/>
+    <ReusableTable tableData={user} isDeleteButton={true} handleDeleteButton={handleDeleteButton}/>
+    <button onClick={handleClearUser}>Clear the users from redux</button>
     {/* <table>
     <thead>
         <tr>

@@ -1,9 +1,6 @@
-import React from 'react'
-
-const ReusableTable = ({tableData}) => {
-console.log(tableData,'tableData')
+const ReusableTable = ({tableData, isDeleteButton, handleDeleteButton}) => {
 const column = tableData.length > 0 ? Object.keys(tableData[0]): null;
-console.log(column)
+
 if(tableData.length > 0){
     return (
         <table>
@@ -12,6 +9,7 @@ if(tableData.length > 0){
                 {column.map((colData, colIndex)=>(
                         <th key={colIndex}>{colData.toUpperCase()}</th>
                 ))}
+                    {isDeleteButton ? <th>Action</th> : null}
                 </tr>
             </thead>
             <tbody>
@@ -20,6 +18,7 @@ if(tableData.length > 0){
                         {column.map((innerColData, innerColIndex)=>(
                             <td key={innerColIndex}>{data[innerColData]}</td>
                         ))}
+                        {isDeleteButton ? <td><button onClick={()=> handleDeleteButton(data)}>Delete the user</button></td>: null}
                     </tr>
                 ))}
             </tbody>
