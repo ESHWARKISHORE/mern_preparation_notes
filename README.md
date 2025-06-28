@@ -43,4 +43,27 @@ This repo contains notes and code samples prepared for MERN Stack development an
 
 ---
 
+## 📅 Day 2 – 27 June 2025 Friday
+
+### ✅ JavaScript Practice
+- Added p16-flattenArray.js and p17-closure.js examples
+
+### ✅ DSA Progress
+- Solved DSA Problem #14: Merge Two Sorted Arrays (two approaches)
+- Committed as p14-mergeTwoSortedArray-app1.js and p14-mergeTwoSortedArray-app2.js
+
+### ✅ React + Redux Toolkit
+- Added `deleteUser` and `clearUser` reducers in `userSlice`
+- Integrated Delete button in `ReusableTable.jsx` with parent handler pattern
+- Verified removing individual users and clearing all users works as expected
+
+### ✅ Next.js Starter
+- Basic App Router structure created under `/app/` with:
+  - `page.jsx` (Home)
+  - `about/page.jsx` (About)
+  - `contact/page.jsx` (Contact)
+- Verified local routing works and Link component tested
+
+---
+
 More updates will follow daily as I continue through the 30-day MERN + DSA prep journey.
