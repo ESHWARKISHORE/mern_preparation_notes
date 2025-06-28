@@ -43,7 +43,7 @@ This repo contains notes and code samples prepared for MERN Stack development an
 
 ---
 
-## 📅 Day 2 – 27 June 2025 Friday
+## 📅 Day 2 – 28 June 2025 Saturday
 
 ### ✅ JavaScript Practice
 - Added p16-flattenArray.js and p17-closure.js examples
