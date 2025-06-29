@@ -66,4 +66,17 @@ This repo contains notes and code samples prepared for MERN Stack development an
 
 ---
 
+## 📅 Day 3 – 29 June 2025 Sunday
+
+### ✅ DSA Progress
+- Solved DSA Problem #15: Move Zeroes
+- Added artificial server delay to test Next.js loading fallback
+
+### ✅ Next.js Progress
+- Added `layout.js` with shared `Header` component under `/app/`
+- Implemented `blog/page.jsx` as Server Component with API fetch
+- Added `error.js` for fallback error handling
+- Added `loading.js` for fallback loading UI
+- Verified error boundary and loading boundary working with artificial delay
+
 More updates will follow daily as I continue through the 30-day MERN + DSA prep journey.

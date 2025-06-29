@@ -7,7 +7,7 @@
 | Day 0 | ✅ Project setup, Redux `addUser` | ✅ DSA p12: String Reversal | ✅ |
 | Day 1 | ✅ Redux Thunk, API, ExtraReducers | ✅ DSA p13: Stock Profit | ✅ |
 | Day 2 | ✅ Redux removeUser CRUD + Delete button  <br> ✅ JavaScript Practice: Flatten Array, Closures  <br> ✅ Next.js Pages & Routing | ✅ DSA: Merge Two Sorted Arrays | ✅ |
-| Day 3 | ⬜️ Redux updateUser (optional) | ⬜️ DSA: Move Zeros | ⬜️ |
+| Day 3 | ✅ Next.js Layout + Blog Fetch + Fallbacks | ✅ DSA: Move Zeros | ✅ |
 | Day 4 | ⬜️ JS: Flatten, Closures, Hoisting | ⬜️ DSA: Max Consecutive Ones | ⬜️ |
 | Day 5 | ⬜️ Next.js Pages & Routing | ⬜️ DSA: Missing Number | ⬜️ |
 | Day 6 | ⬜️ Next.js: SSR, SSG | ⬜️ DSA: Single Number | ⬜️ |
