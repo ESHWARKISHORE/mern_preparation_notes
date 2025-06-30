@@ -79,4 +79,13 @@ This repo contains notes and code samples prepared for MERN Stack development an
 - Added `loading.js` for fallback loading UI
 - Verified error boundary and loading boundary working with artificial delay
 
+## 📅 Day 4 – 30 June 2025 Monday
+
+✅ DSA: p16 Max Consecutive Ones solved and committed  
+✅ Next.js: Added `export const metadata` for Home, About, Contact, Blog pages  
+✅ Verified OpenGraph tags and meta titles in browser source  
+✅ Added `next/image` to Home page for LCP test  
+✅ Ran Lighthouse check for Core Web Vitals
+
+
 More updates will follow daily as I continue through the 30-day MERN + DSA prep journey.

@@ -8,7 +8,7 @@
 | Day 1 | ✅ Redux Thunk, API, ExtraReducers | ✅ DSA p13: Stock Profit | ✅ |
 | Day 2 | ✅ Redux removeUser CRUD + Delete button  <br> ✅ JavaScript Practice: Flatten Array, Closures  <br> ✅ Next.js Pages & Routing | ✅ DSA: Merge Two Sorted Arrays | ✅ |
 | Day 3 | ✅ Next.js Layout + Blog Fetch + Fallbacks | ✅ DSA: Move Zeros | ✅ |
-| Day 4 | ⬜️ Next.js SEO: Head, OpenGraph, Core Web Vitals | ⬜️ DSA: Max Consecutive Ones | ⬜️ |
+| Day 4 | ✅ Next.js SEO: Head, OpenGraph, Core Web Vitals | ✅ DSA: Max Consecutive Ones | ✅ |
 | Day 5 | ⬜️ Next.js SSR, SSG, `getStaticProps` vs `getServerSideProps` | ⬜️ DSA: Missing Number | ⬜️ |
 | Day 6 | ⬜️ Next.js: Lazy Loading, Intersection Observer | ⬜️ DSA: Single Number | ⬜️ |
 | Day 7 | ⬜️ Next.js Bundle Optimisation, LCP, CLS, TTFB | ⬜️ DSA: Linear Search | ⬜️ |
