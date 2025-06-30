@@ -1,6 +1,15 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 
+export const metadata = {
+  title: 'Home page – My Next.js Project',
+  description: 'This page is applications home page',
+  openGraph: {
+    title: 'Home page – My Next.js Project',
+    description: 'This is homepage',
+  },
+};
+
 export default function Home() {
   return (
     <div className={styles.page}>
