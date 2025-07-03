@@ -9,7 +9,7 @@
 | Day 2 | ✅ Redux removeUser CRUD + Delete button  <br> ✅ JavaScript Practice: Flatten Array, Closures  <br> ✅ Next.js Pages & Routing | ✅ DSA: Merge Two Sorted Arrays | ✅ |
 | Day 3 | ✅ Next.js Layout + Blog Fetch + Fallbacks | ✅ DSA: Move Zeros | ✅ |
 | Day 4 | ✅ Next.js SEO: Head, OpenGraph, Core Web Vitals | ✅ DSA: Max Consecutive Ones | ✅ |
-| Day 5 | ⬜️ HTML, Semantic, Accessibility + Node.js Core | ⬜️ DSA: Reverse String, Two Sum, Longest Substring, Group Anagrams | ⬜️ |
+| Day 5 | ✅ HTML, Semantic, Accessibility | ✅ DSA: Reverse String, Two Sum, Longest Substring, Group Anagrams | ✅ |
 | Day 6 | ⬜️ CSS Layout Mastery + Express.js Core | ⬜️ DSA: Merge Intervals, Binary Search, Factorial | ⬜️ |
 | Day 7 | ⬜️ Core JavaScript: Closures, Hoisting, this + Express Optimisation | ⬜️ DSA: Arrays/Strings | ⬜️ |
 | Day 8 | ⬜️ React Core & Hooks + Microservice Starter | ⬜️ DSA: Recursion Basics | ⬜️ |

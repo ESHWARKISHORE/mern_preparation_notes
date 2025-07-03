@@ -88,4 +88,19 @@ This repo contains notes and code samples prepared for MERN Stack development an
 ✅ Ran Lighthouse check for Core Web Vitals
 
 
+## 📅 Day 5 – 3 July 2025
+
+### ✅ Frontend
+- Built a semantic HTML landing page using header, nav, main, section, footer
+- Added ARIA roles and alt attributes for accessibility
+- Verified keyboard navigation and ran Lighthouse accessibility check
+
+### ✅ DSA Progress
+- Solved p2-twoSum.js (LeetCode Two Sum)
+- Solved p3-longestSubStringWithoutRepeatingCharacters.js
+- Solved p4-verifyAnagram-app1.js and app2.js
+- Solved p5-groupOfAnagram.js
+- Patterns covered: Frequency Map, Sliding Window, Hash Map, Grouping Pattern
+
+
 More updates will follow daily as I continue through the 30-day MERN + DSA prep journey.
