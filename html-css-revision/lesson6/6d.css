@@ -1,0 +1,18 @@
+p{
+    font-family: Roboto;
+}
+
+.header-text{
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: -10px;
+}
+
+.sub-text{
+    font-weight: 400;
+}
+
+.link-text{
+    font-style: italic;
+    cursor: pointer;
+}
