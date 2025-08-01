@@ -1,0 +1,34 @@
+/* *, * ::before, *::after{box-sizing: border-box;} */
+*, * ::before, *::after{box-sizing: inherit;}
+
+html{
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: lightcoral;
+    width: 500px;
+}
+.content{
+    background-color: lightblue;
+    width: 500px;
+    padding: 30px;
+    border: 10px solid black;
+    height: 200px;
+}
+.footer{
+    background-color: lightgreen;
+    width: 500px;
+}
+.normal{
+    margin-bottom: 10px;
+}
+
+.box-sizing-content{
+    box-sizing: border-box;
+    background-color: lightblue;
+    width: 500px;
+    padding: 30px;
+    border: 10px solid black;
+    height: 200px;
+}
